@@ -62,6 +62,8 @@ function App() {
             <option value="All">All</option>
             <option value="Active">Active</option>
             <option value="Paused">Paused</option>
+            <option value="Completed">Completed</option>
+
           </select>
         </div>
 
